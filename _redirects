@@ -1,12 +1,12 @@
 / https://ikh.media
 
-/HD1 https://ikhradio.stream/listen/mix107/stream 301
-/HD2 https://ikhradio.stream/listen/q107/stream 301
-/HD3 https://ikhradio.stream/listen/oldies107/stream 301
-/HD4 https://ikhradio.stream/listen/thebeat/stream 301
-/HD5 https://ikhradio.stream/listen/smoothjazz/stream 301
-/HD6 https://ikhradio.stream/listen/newsradio/stream 301
-/HD7 https://ikhradio.stream/listen/country92/stream 301
+/HD1 https://ikhradio.stream/listen/theedge/stream 301
+/HD2 https://ikhradio.stream/listen/deeptrax/stream 301
+/HD3 https://ikhradio.stream/listen/timewarp/stream 301
+/HD4 https://ikhradio.stream/listen/evolve/stream 301
+/HD5 https://ikhradio.stream/listen/theedge/stream 301
+/HD6 hhttps://ikhradio.stream/listen/theedge/stream 301
+/HD7 https://ikhradio.stream/listen/theedge/stream 301
  
 /Watch/HD1/play.m3u8 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8 301
 /Watch/HD2/play.m3u8 https://fl3.moveonjoy.com/ME_TV/index.m3u8 301
