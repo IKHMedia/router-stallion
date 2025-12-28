@@ -1,12 +1,6 @@
-/ https://ikh.media
+/ https://ikhmedia.stream
 
-/HD1 https://ikhradio.stream/listen/theedge/stream 301
-/HD2 https://ikhradio.stream/listen/deeptrax/stream 301
-/HD3 https://ikhradio.stream/listen/timewarp/stream 301
-/HD4 https://ikhradio.stream/listen/evolve/stream 301
-/HD5 https://ikhradio.stream/listen/theedge/stream 301
-/HD6 hhttps://ikhradio.stream/listen/theedge/stream 301
-/HD7 https://ikhradio.stream/listen/theedge/stream 301
+
  
 /Watch/HD1/play.m3u8 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8 301
 /Watch/HD2/play.m3u8 https://v4.thetvapp.to/hls/AEEast/tracks-v1a1/mono.m3u8?token=hKzuA1Mf-JhpcWws9bivbQ&expires=1758789010&user_id=dTR3WUNtbUwzcENpV3dScHgwUUpzalh5MDlRcFRsSGF6a0dZbk1NaQ== 301
